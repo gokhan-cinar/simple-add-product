@@ -1,4 +1,4 @@
-# basic-add-product
+# simple add product
 
 > A Vue.js project
 
